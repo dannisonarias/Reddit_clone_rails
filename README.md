@@ -1,6 +1,6 @@
 # Reddit Model for users, posts, and comments
 
- This application has the data models and associations that allow users to submit links (“posts”), and to comment on links. Using associations and foreign keys we were able to create a link between the tables that share information.
+ This application has the data models and associations that allow users to submit links (“posts”), and to comment on links. Using associations and foreign keys we're able to create links between tables that share information.
 
 # Install
 1 - Install 
